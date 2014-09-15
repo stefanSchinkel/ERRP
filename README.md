@@ -16,6 +16,6 @@ that were written from my diploma/PhD thesis.
 
 The key methods have been published,  but might require a deeper understanding of nonlinear dynamics, 
 theoretical physics, cognitive and computational neuroscience. The corresponding references can be found in the 
-documentation. 
+documentation. Some function might depend on a dedicated toolbox for order patterns (https://github.com/stefanSchinkel/opTool)
 
 
