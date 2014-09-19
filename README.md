@@ -12,10 +12,10 @@ using advanced, nonlinear methods such as:
  - order patterns networks (ORPAN)
  - and others
 
-that were written from my diploma/PhD thesis. 
 
 The key methods have been published,  but might require a deeper understanding of nonlinear dynamics, 
 theoretical physics, cognitive and computational neuroscience. The corresponding references can be found in the 
 documentation. Some function might depend on a dedicated toolbox for order patterns (https://github.com/stefanSchinkel/opTool)
 
-
+For the analysis of data using recurrence plots the CRPToolbox (http://tocsy.pik-potsdam.de/CRPtoolbox/) is also needed. 
+Furthermore it is highly recommend to read about the theory, guidelines and related methods at http://www.recurrence-plot.tk/
