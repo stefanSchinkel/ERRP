@@ -21,6 +21,11 @@
 % A = int32(rand(100,100) < 0.05);
 % D = FastFloyd(1./A)
 %
+% This files is available from MATLABCentral
+% http://www.mathworks.com/matlabcentral/fileexchange/25776-vectorized-floyd-warshall/content/FastFloyd.m
+% and the author is Dustin Arendt http://www.mathworks.com/matlabcentral/fileexchange/authors/75546
+%
+%
 
 function D = FastFloyd(D)
 
